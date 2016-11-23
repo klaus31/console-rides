@@ -1,0 +1,15 @@
+{
+  "name": "ascii-morph-playing",
+  "version": "1.0.0",
+  "description": "Play with console",
+  "main": "main.js",
+  "dependencies": {
+    "image-to-ascii": "^3.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ascii-color-art",
+  "version": "1.0.0",
+  "description": "color on conles",
+  "main": "01-try.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cli-color": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
